@@ -1,1 +1,1 @@
-Command chekout uses in GIT for: 
+For merge too brenchs neded a merge
